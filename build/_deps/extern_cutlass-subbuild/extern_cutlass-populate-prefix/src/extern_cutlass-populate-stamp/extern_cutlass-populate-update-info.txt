@@ -1,7 +1,0 @@
-# This is a generated file and its contents are an internal implementation detail.
-# The patch step will be re-executed if anything in this file changes.
-# No other meaning or use of this file is supported.
-
-command (connected)=/home/liuyang/.pyenv/versions/3.10.14/envs/liuyang-infer-py310/lib/python3.10/site-packages/cmake/data/bin/cmake;-Dcan_fetch=YES;-P;/home/liuyang/learn_cutlass/build/_deps/extern_cutlass-subbuild/extern_cutlass-populate-prefix/tmp/extern_cutlass-populate-gitupdate.cmake
-command (disconnected)=/home/liuyang/.pyenv/versions/3.10.14/envs/liuyang-infer-py310/lib/python3.10/site-packages/cmake/data/bin/cmake;-Dcan_fetch=NO;-P;/home/liuyang/learn_cutlass/build/_deps/extern_cutlass-subbuild/extern_cutlass-populate-prefix/tmp/extern_cutlass-populate-gitupdate.cmake
-work_dir=/home/liuyang/learn_cutlass/third_party/cutlass

@@ -1,3 +1,0 @@
-/home/liuyang/learn_cutlass/build/_deps/extern_cutlass-subbuild/CMakeFiles/extern_cutlass-populate.dir
-/home/liuyang/learn_cutlass/build/_deps/extern_cutlass-subbuild/CMakeFiles/edit_cache.dir
-/home/liuyang/learn_cutlass/build/_deps/extern_cutlass-subbuild/CMakeFiles/rebuild_cache.dir
