@@ -1,0 +1,11 @@
+
+---
+events:
+  -
+    kind: "message-v1"
+    backtrace:
+      - "/home/liuyang/.pyenv/versions/3.10.14/envs/liuyang-infer-py310/lib/python3.10/site-packages/cmake/data/share/cmake-3.29/Modules/CMakeDetermineSystem.cmake:205 (message)"
+      - "CMakeLists.txt:16 (project)"
+    message: |
+      The system is: Linux - 5.4.0-176-generic - x86_64
+...
